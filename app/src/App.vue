@@ -389,7 +389,7 @@ mounted() {
 }
 @media screen and (max-width: 502px) {
     .footer_icons {
-        width: 40%;
+        width: 41%;
     }
 }
 </style>
