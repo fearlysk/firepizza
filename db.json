@@ -1,0 +1,81 @@
+{
+    "products": [
+        {
+            "image":"pizza_margarita.png",
+            "name": "Пицца 'Маргарита'",
+            "price": "8",
+            "quantity": "1",
+            "id": "A1"
+        },
+        {
+            "image": "pizza_montanara.png",
+            "name": "Пицца 'Монтанара'",
+            "price": "12",
+            "quantity": "1",
+            "id": "A2"
+        },
+        {
+            "image": "pizza_meaty.png",
+            "name": "Пицца 'Мясная'",
+            "price": "12",
+            "quantity": "1",
+            "id": "A3"
+        },
+        {
+            "image": "pizza_fire.png",
+            "name": "Пицца 'Огонь'",
+            "price": "12",
+            "quantity": "1",
+            "id": "A4"
+        },
+        {
+            "image": "pizza_bavarian.png",
+            "name": "Пицца 'Баварская'",
+            "price": "10",
+            "quantity": "1",
+            "id": "A5"
+        },
+        {
+            "image": "pizza_barbekyu.png",
+            "name": "Пицца 'Барбекю'",
+            "price": "12",
+            "quantity": "1",
+            "id": "A6"
+        },
+        {
+            "image": "pizza_vetchina.png",
+            "name": "Пицца 'Ветчина Грибы'",
+            "price": "12",
+            "quantity": "1",
+            "id": "A7"
+        },
+        {
+            "image": "pizza_chicken.png",
+            "name": "Пицца 'Курица и сладкий перчик'",
+            "price": "12",
+            "quantity": "1",
+            "id": "A8"
+        },
+        {
+            "image": "pizza_pepperoni.png",
+            "name": "Пицца 'Пепперони'",
+            "price": "10",
+            "quantity": "1",
+            "id": "A9"
+        },
+        {
+            "image": "pizza_primavera.png",
+            "name": "Пицца 'Примавера'",
+            "price": "14",
+            "quantity": "1",
+            "id": "A10"
+        },
+        {
+            "image": "pizza_fourcheeses.png",
+            "name": "Пицца 'Четыре сыра'",
+            "price": "14",
+            "quantity": "1",
+            "id": "A11"
+        }
+    ]
+}
